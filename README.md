@@ -69,4 +69,6 @@ It is hard to look for Bug Bounty Tips from different social media websites. Thi
 > Did you know that the character '_' acts like the regex character '.' in SQL queries. https://www.w3resource.com/sql/wildcards-like-operator/wildcards-underscore.php - [@gwendallecoguic](https://twitter.com/gwendallecoguic/status/1076081365777551364)
 
 > If a website does not verify email, try signing up with <whatev>@domain.com (the company email). Sometimes this gives you higher privilege like deleting/viewing any other user's profiles etc. [@uraniumhacker](https://twitter.com/uraniumhacker/status/1066483686655221761)
+>
+> 
   
